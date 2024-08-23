@@ -2,3 +2,6 @@ POO I
 POO II
 Base De Datos
 Aplicaciones Web
+Electiva Profesional I
+Algoritmos Computacionales
+Ingenieria De Softwrae II
