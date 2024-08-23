@@ -5,3 +5,4 @@ Aplicaciones Web
 Electiva Profesional I
 Algoritmos Computacionales
 Ingenieria De Softwrae II
+Sistemas Operativos
